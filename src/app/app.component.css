@@ -1,0 +1,13 @@
+#main {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #70f;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.text-center {
+  text-align: center;
+}
